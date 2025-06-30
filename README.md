@@ -67,6 +67,6 @@ This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) fil
 ---
 
 > Built with ❤️ by the EchoAI Team.  
-> [GitHub](https://github.com/dev-echoai/echoai.cz) | 
+> [GitHub](https://github.com/echoai-cz/echoai) | 
 
 --- 
