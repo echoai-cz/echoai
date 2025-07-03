@@ -21,8 +21,8 @@ Customize your content using parameters such as:
 - Topic Keywords
 - Hotspot Tracking
 
-### Echo Terminal Mode
-In Terminal Mode, Echo is emotionless and data-driven—precise, adaptive, code-native. Ideal for scripting and automation tasks.
+### Nold Terminal Mode
+In Terminal Mode, Nold is emotionless and data-driven—precise, adaptive, code-native. Ideal for scripting and automation tasks.
 
 ### Adaptive Expression
 Echo adapts its tone based on social signals and audience context, enhancing relevance and emotional resonance in generated content.
