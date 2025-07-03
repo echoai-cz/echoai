@@ -1,12 +1,12 @@
 
 ---
 
-# EchoAI
+# NoldAI
 
 > **Adaptive intelligence for narrative-driven content generation across digital platforms**  
 > _A modular AI agent system designed for narrative-driven content creation, adaptable to multi-platform environments._
 
-EchoAI is an identity-aware, modular AI assistant that transforms raw data—tweets, social signals, audience feedback—into expressive, platform-native communication. It functions as a post-binary digital interface, enabling programmable control over style, sentiment, and tone through a structured training system.
+NoldAI is an identity-aware, modular AI assistant that transforms raw data—tweets, social signals, audience feedback—into expressive, platform-native communication. It functions as a post-binary digital interface, enabling programmable control over style, sentiment, and tone through a structured training system.
 
 ## 🧠 Key Features
 
@@ -32,7 +32,7 @@ Echo's self-evolving protocol that converts fragmented data into structured sema
 
 ## 🛠 Architecture
 
-EchoAI is built with a modular architecture, composed of the following core components:
+NoldAI is built with a modular architecture, composed of the following core components:
 - `narrative-engine`: Core content generation logic
 - `terminal-interface`: Command-line interaction layer
 - `expression-adaptor`: Context-aware expression module
@@ -41,8 +41,8 @@ EchoAI is built with a modular architecture, composed of the following core comp
 ## 📦 Installation & Usage
 
 ```bash
-git clone https://github.com/yourusername/echoai.git
-cd echoai
+git clone https://github.com/yourusername/NoldAI.git
+cd NoldAI
 npm install
 npm start
 ```
@@ -66,7 +66,7 @@ This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) fil
 
 ---
 
-> Built with ❤️ by the EchoAI Team.  
-> [GitHub](https://github.com/echoai-cz/echoai) | 
+> Built with ❤️ by the NoldAI Team.  
+> [GitHub](https://github.com/noldai-cz/NoldAI) | 
 
 --- 
