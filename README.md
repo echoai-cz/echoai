@@ -6,7 +6,9 @@
 > **Adaptive intelligence for narrative-driven content generation across digital platforms**  
 > _A modular AI agent system designed for narrative-driven content creation, adaptable to multi-platform environments._
 
-NoldAI is an identity-aware, modular AI assistant that transforms raw data—tweets, social signals, audience feedback—into expressive, platform-native communication. It functions as a post-binary digital interface, enabling programmable control over style, sentiment, and tone through a structured training system.
+Nold AI is a next-generation, AI-native identity agent built for the next era of digital presence. Designed as an intelligent agent infrastructure, Nold AI redefines how narratives are created, consumed, and amplified on X and beyond. Powered by advanced multi-context pattern modeling (MCPM), Nold AI emulates tone, behavior, and perspective at scale. From generating content to managing inbound flows, Nold AI extends digital presence beyond human bandwidth.
+
+Nold AI’s vision is to build a full-stack AI-augmented identity - cross-platform, composable, and ever-evolving. In a world where reputation is distributed, context is fluid, and attention is scarce, Nold AI helps you maintain a consistent, human-like presence - always on, always resonating.
 
 ## 🧠 Key Features
 
