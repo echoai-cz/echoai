@@ -1,7 +1,7 @@
 
 ---
 
-# NoldAI
+# Nold AI
 
 > **Adaptive intelligence for narrative-driven content generation across digital platforms**  
 > _A modular AI agent system designed for narrative-driven content creation, adaptable to multi-platform environments._
